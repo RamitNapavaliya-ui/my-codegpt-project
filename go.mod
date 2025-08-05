@@ -6,7 +6,7 @@ require (
 	github.com/appleboy/com v0.4.0
 	github.com/appleboy/graceful v1.1.1
 	github.com/charmbracelet/bubbles v0.21.0
-	github.com/charmbracelet/bubbletea v1.3.5
+	github.com/charmbracelet/bubbletea v1.3.6
 	github.com/erikgeiser/promptkit v0.9.0
 	github.com/fatih/color v1.18.0
 	github.com/joho/godotenv v1.5.1
