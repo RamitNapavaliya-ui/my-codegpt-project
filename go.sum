@@ -6,8 +6,8 @@ cloud.google.com/go/compute/metadata v0.7.0 h1:PBWF+iiAerVNe8UCHxdOt6eHLVc3ydFeO
 cloud.google.com/go/compute/metadata v0.7.0/go.mod h1:j5MvL9PprKL39t166CoB1uVHfQMs4tFQZZcKwksXUjo=
 github.com/MakeNowJust/heredoc v1.0.0 h1:cXCdzVdstXyiTqTvfqk9SDHpKNjxuom+DOlyEeQ4pzQ=
 github.com/MakeNowJust/heredoc v1.0.0/go.mod h1:mG5amYoWBHf8vpLOuehzbGGw0EHxpZZ6lCpQ4fNJ8LE=
-github.com/appleboy/com v0.4.0 h1:z6Yx16K5nqnUrT5N40elwvcFFuCbIwJn80FeYXS1H4I=
-github.com/appleboy/com v0.4.0/go.mod h1:IbC1mLvqcIYn2YVNJgAYB9XnhbUh1xYKsOzdEOy0n+c=
+github.com/appleboy/com v1.1.0 h1:HLgRzhtj+4PLuFPPutKexd9zI9F74ymgWhkgPfPtnkc=
+github.com/appleboy/com v1.1.0/go.mod h1:IbC1mLvqcIYn2YVNJgAYB9XnhbUh1xYKsOzdEOy0n+c=
 github.com/appleboy/graceful v1.1.1 h1:vYqfpBdyEFztXofmw9iL8aohnxbcE+2Nq2j67SCoMBo=
 github.com/appleboy/graceful v1.1.1/go.mod h1:gjCrWFsKhOX2N6jNY0QyQhK+WE8Z3TFSen4fExHg3wk=
 github.com/atotto/clipboard v0.1.4 h1:EH0zSVneZPSuFR11BlR9YppQTVDbh5+16AmcJi4g1z4=
