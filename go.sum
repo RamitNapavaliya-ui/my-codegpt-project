@@ -8,8 +8,8 @@ github.com/MakeNowJust/heredoc v1.0.0 h1:cXCdzVdstXyiTqTvfqk9SDHpKNjxuom+DOlyEeQ
 github.com/MakeNowJust/heredoc v1.0.0/go.mod h1:mG5amYoWBHf8vpLOuehzbGGw0EHxpZZ6lCpQ4fNJ8LE=
 github.com/appleboy/com v0.4.0 h1:z6Yx16K5nqnUrT5N40elwvcFFuCbIwJn80FeYXS1H4I=
 github.com/appleboy/com v0.4.0/go.mod h1:IbC1mLvqcIYn2YVNJgAYB9XnhbUh1xYKsOzdEOy0n+c=
-github.com/appleboy/graceful v1.1.1 h1:vYqfpBdyEFztXofmw9iL8aohnxbcE+2Nq2j67SCoMBo=
-github.com/appleboy/graceful v1.1.1/go.mod h1:gjCrWFsKhOX2N6jNY0QyQhK+WE8Z3TFSen4fExHg3wk=
+github.com/appleboy/graceful v1.2.1 h1:OCNfj5QdQQ82eBuxEF7RAILQCGG+Ued7BOMQwcTv9DQ=
+github.com/appleboy/graceful v1.2.1/go.mod h1:XlEg3jkgb42weJeCXch3HRXvWrU5r+EYymCyPVy0EkA=
 github.com/atotto/clipboard v0.1.4 h1:EH0zSVneZPSuFR11BlR9YppQTVDbh5+16AmcJi4g1z4=
 github.com/atotto/clipboard v0.1.4/go.mod h1:ZY9tmq7sm5xIbd9bOK4onWV4S6X0u6GY7Vn0Yu86PYI=
 github.com/aymanbagabas/go-osc52/v2 v2.0.1 h1:HwpRHbFMcZLEVr42D4p7XBqjyuxQH5SMiErDT4WkJ2k=

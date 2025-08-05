@@ -4,7 +4,7 @@ go 1.24
 
 require (
 	github.com/appleboy/com v0.4.0
-	github.com/appleboy/graceful v1.1.1
+	github.com/appleboy/graceful v1.2.1
 	github.com/charmbracelet/bubbles v0.21.0
 	github.com/charmbracelet/bubbletea v1.3.5
 	github.com/erikgeiser/promptkit v0.9.0
