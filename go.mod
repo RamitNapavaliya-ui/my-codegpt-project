@@ -17,7 +17,7 @@ require (
 	github.com/spf13/viper v1.20.1
 	github.com/yassinebenaid/godump v0.11.1
 	golang.org/x/net v0.41.0
-	google.golang.org/genai v1.12.0
+	google.golang.org/genai v1.26.0
 )
 
 require (
